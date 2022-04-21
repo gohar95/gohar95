@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gohar Zafar
 - 👀 Welcome, What you are looking for.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...I have these projects to contribute.
+- 💞️ I have these projects to contribute.
 - Cheers!
 
 <!---
