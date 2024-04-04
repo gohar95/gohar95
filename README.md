@@ -34,6 +34,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h3>Android Studio (Java,Kolin)</h3>
+<h3>VS Code (React Native)</h3>
+<h3>Figma UI/UX</h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gohar95&show_icons=true&locale=en&layout=compact" alt="Gohar95" /></p>
