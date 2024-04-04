@@ -1,5 +1,5 @@
 ![logo](https://github.com/ahaseeb001/ahaseeb001/blob/main/1670602482212.jpeg)
-<h1 align="center">Hi 👋, I'm Abdul Haseeb</h1>
+<h1 align="center">Hi 👋, I'm Gohar Zafar</h1>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
 <h3 align="center">if(today < yesterday){ </h3>
 <h3 align="center"> self.improve() </h3>
