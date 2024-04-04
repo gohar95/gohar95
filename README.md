@@ -14,7 +14,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahaseeb001" alt="ahaseeb001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hazistudiko" target="blank"><img src="https://img.shields.io/twitter/follow/hazistudiko?logo=twitter&style=for-the-badge" alt="hazistudiko" /></a> </p>
 
 - 🔭 I’m currently working on **Android,Kotlin,Dart,Flutter,Java**
 
@@ -34,9 +33,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3>Android Studio (Java,Kolin)</h3>
-<h3>VS Code (React Native)</h3>
-<h3>Figma UI/UX</h3>
+<p>Android Studio (Java,Kotlin)</p>
+<p>VS Code (React Native)</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gohar95&show_icons=true&locale=en&layout=compact" alt="Gohar95" /></p>
