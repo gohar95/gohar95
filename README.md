@@ -39,6 +39,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gohar95&show_icons=true&locale=en&layout=compact" alt="Gohar95" /></p>
+<p>Kotlin</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gohar95&show_icons=true&locale=en" alt="Gohar95" /></p>
 
