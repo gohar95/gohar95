@@ -6,6 +6,7 @@
 <h3 align="center">}else { </h3>
 <h3 align="center">KeepGoing() </h3>
 <h3 align="center">} </h3>
+<h3 align="center"> My All Codes are on Master Branch. Go See them. </h3>
 
 <image src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRvZnlrYWx2eXowNDlnMXdjdHRreWh6c3JhYjg0cDNqOHh1eGN3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif' width='400' alt='coding' align='right'/>
 
@@ -15,11 +16,11 @@
 
 <p align="left"> <a href="https://twitter.com/hazistudiko" target="blank"><img src="https://img.shields.io/twitter/follow/hazistudiko?logo=twitter&style=for-the-badge" alt="hazistudiko" /></a> </p>
 
-- 🔭 I’m currently working on **next.js, React naitve , javascript**
+- 🔭 I’m currently working on **Android,Kotlin,Dart,Flutter,Java**
 
-- 🌱 I’m currently learning **next.js and dart**
+- 🌱 I’m currently learning **ReactNative,Flutter**
 
-- 📫 How to reach me **haseebabdul070@gmail.com**
+- 📫 How to reach me **gohar.zafar123@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
