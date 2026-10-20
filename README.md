@@ -1,113 +1,122 @@
-# Hi there! 👋 I'm Gohar Zafar
-
 <div align="center">
-  <img src="https://github.com/ahaseeb001/ahaseeb001/blob/main/1670602482212.jpeg" alt="Gohar Zafar" width="150" height="150" style="border-radius: 50%;">
-</div>
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:38BDF8&height=220&section=header&text=Gohar%20Zafar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Android%20%7C%20Flutter%20%7C%20React%20Native&descSize=17&descAlignY=60" alt="Gohar Zafar banner" width="100%" />
 
-I'm a passionate **Software Developer** from Pakistan, dedicated to creating innovative mobile and web applications. I believe in continuous learning and improvement - if today isn't better than yesterday, I keep pushing forward until it is.
+<img src="https://github.com/gohar95.png" width="130" alt="Gohar Zafar's GitHub avatar" />
 
-```javascript
-if (today < yesterday) {
-    self.improve();
-} else {
-    keepGoing();
-}
-```
+### Hey, I'm Gohar! 👋
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRvZnlrYWx2eXowNDlnMXdjdHRreWh6c3JhYjg0cDNqOHh1eGN3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif' width='300' alt='coding' align='right'/>
+**Software Developer from Pakistan 🇵🇰**  
+*Building thoughtful mobile experiences, one commit at a time.*
 
-## 💻 What I Do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gohardev95/)
+[![Email](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gohar.zafar123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gohar95?tab=repositories)
 
-- 🔭 **Currently Working On:** Android Development (Kotlin, Java), Cross-platform Mobile Apps (Flutter, React Native)
-- 🌱 **Currently Learning:** Advanced React Native Architecture, Flutter State Management
-- 🎯 **Focus Areas:** Mobile App Development, Clean Architecture, MVVM Pattern
-- 📱 **Platforms:** Android, iOS, Cross-platform
+<img src="https://komarev.com/ghpvc/?username=gohar95&style=flat-square&color=38BDF8&label=Profile+views" alt="Profile views" />
 
-## 🛠️ Tech Stack
-
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### Development Tools
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Databases & Backend
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gohar95&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Gohar's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohar95&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gohar95&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats">
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gohar95&theme=react&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
-</div>
-
-## 🌟 Featured Projects
-
-> 💡 **All my projects are available on the master branch - feel free to explore!**
-
-<!-- You can add specific project cards here -->
-<div align="center">
-  <a href="https://github.com/gohar95?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View Projects">
-  </a>
-</div>
-
-## 🤝 Let's Connect
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about technology!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gohardev95/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gohar.zafar123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gohar95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+I'm a mobile-focused software developer who enjoys turning ideas into **useful, intuitive applications**. I work across native Android and cross-platform development, with a strong interest in maintainable architecture and delightful user experiences.
+
+- 🔭 **Building with:** Kotlin, Java, Flutter & React Native
+- 🌱 **Exploring:** Advanced React Native architecture & Flutter state management
+- 🧩 **Interested in:** Clean Architecture, MVVM, and scalable app design
+- 📱 **Developing for:** Android, iOS & cross-platform experiences
+- 🤝 **Open to:** Collaboration, interesting projects & software development opportunities
+- ⚡ **Mindset:** Learn continuously. Build intentionally. Improve every day.
+
+```javascript
+const gohar = {
+  role: "Mobile App Developer",
+  location: "Pakistan 🇵🇰",
+  interests: ["Android", "Flutter", "React Native"],
+  philosophy: "Keep learning, keep building 🚀"
+};
+```
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/gohar95">Gohar Zafar</a></i>
+
+**Mobile & Languages**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Data**
+
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
+
+**Tools & Workflow**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
-<!-- Blog posts section - uncomment when you have a blog -->
-<!-- 
-## 📝 Latest Blog Posts
+## 📊 GitHub Activity
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!--
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gohar95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Gohar's GitHub statistics" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohar95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used languages" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=gohar95&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
+
+</div>
+
+> 📌 GitHub stats are generated by third-party services and may occasionally be unavailable. Language cards reflect repository code, not overall proficiency.
+
+## 🚀 Explore My Projects
+
+<div align="center">
+
+**Want to see what I'm building?**
+
+[![View Repositories](https://img.shields.io/badge/Explore%20My%20Repositories-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gohar95?tab=repositories)
+
+</div>
+
+<!-- Replace this section with 2–3 real, pinned projects when ready.
+### Featured Work
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Project name](PROJECT_URL) | One-line description | Kotlin / Firebase |
 -->
 
-## 💡 Fun Fact
+## 🎯 What I'm Focused On
 
-> "The best way to predict the future is to create it." - I'm constantly building tomorrow's solutions today!
+```text
+📱 Mobile apps        → Smooth, accessible user experiences
+🏗️ Architecture       → Clean, testable, maintainable code
+🔄 Cross-platform     → Shared ideas, platform-native quality
+📚 Continuous growth  → Learning through real projects
+```
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with developers, founders, and teams working on interesting products. Have an idea or an opportunity? **Let's talk!**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gohardev95/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gohar.zafar123@gmail.com)
+
+*“The best way to predict the future is to create it.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:38BDF8&height=110&section=footer" alt="Footer wave" width="100%" />
+
+</div>
